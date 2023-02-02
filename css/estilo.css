@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+h1{
+    color: goldenrod;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    margin: 10px;
+    padding: 40px;
+}
+header ul li {
+    display: inline-block;
+    margin: 5px;
+}
+a {
+    color: darkgoldenrod;
+    font-weight: bold;
+}
+body{
+    background-color: black;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: burlywood;
+}
+footer {
+    border: 2px solid black;
+    text-align: center;
+}
+footer ul li {
+    list-style-type: none;
+}
+
